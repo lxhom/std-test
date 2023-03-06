@@ -11,6 +11,7 @@
     "start": "node --require ts-node/register src",
     "build": "tsc"
   },
+  "type": "module",
   "devDependencies": {
     "@types/node": "13.9.0",
     "ts-node": "8.6.2",
